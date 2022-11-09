@@ -51,6 +51,7 @@ const StyledHeader = styled.div`
         width: 100%;
         padding: 16px 32px;
         gap: 16px;
+        background-color: #e5e5e5;
     }
 `;
 function Header() {
