@@ -61,7 +61,9 @@ const Styledbanner = styled.div`
     background-color: blue;
     background-image: url("https://images.unsplash.com/photo-1667958650125-5c452fc9c530?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
     height: 230px;
+    width:100%;
 `;
+
 function Header() {
     return (
         <StyledHeader>
